@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=lorn666)
+
 I'm Jiayi Sheng! Welcome to my page!
 <picture>
   <source
